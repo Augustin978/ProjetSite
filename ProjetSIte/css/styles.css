@@ -13,3 +13,19 @@ nav.navlien{
     justify-content: space-between;
     margin-left: 450px;
 }
+
+h2{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 700px;
+
+
+}
+
+nav.navoutils{
+    display: flex;
+    list-style: none;
+    width: 1000px;
+    justify-content: space-between;
+    margin-left: 385px;
+}
