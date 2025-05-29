@@ -1,0 +1,15 @@
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+
+}
+
+
+nav.navlien{
+    display: flex;
+    list-style: none;
+    width: 1000px;
+    justify-content: space-between;
+    margin-left: 450px;
+}
